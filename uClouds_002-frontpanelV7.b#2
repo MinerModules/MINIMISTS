@@ -38,7 +38,7 @@
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
 <layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
 <layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
@@ -283,6 +283,30 @@
 <vertex x="24.13" y="114.808" curve="-90"/>
 </polygon>
 <polygon width="0.1016" layer="29">
+<vertex x="29.718" y="116.84" curve="-90"/>
+<vertex x="31.75" y="118.872" curve="-90"/>
+<vertex x="33.782" y="116.84" curve="-90"/>
+<vertex x="31.75" y="114.808" curve="-90"/>
+</polygon>
+<polygon width="0.1016" layer="30">
+<vertex x="6.858" y="116.84" curve="-90"/>
+<vertex x="8.89" y="118.872" curve="-96.732883"/>
+<vertex x="10.922" y="116.586" curve="-84.162388"/>
+<vertex x="8.89" y="114.808" curve="-88.209699"/>
+</polygon>
+<polygon width="0.1016" layer="30">
+<vertex x="14.478" y="116.84" curve="-90"/>
+<vertex x="16.51" y="118.872" curve="-90"/>
+<vertex x="18.542" y="116.84" curve="-90"/>
+<vertex x="16.51" y="114.808" curve="-90"/>
+</polygon>
+<polygon width="0.1016" layer="30">
+<vertex x="22.098" y="116.84" curve="-90"/>
+<vertex x="24.13" y="118.872" curve="-90"/>
+<vertex x="26.162" y="116.84" curve="-90"/>
+<vertex x="24.13" y="114.808" curve="-90"/>
+</polygon>
+<polygon width="0.1016" layer="30">
 <vertex x="29.718" y="116.84" curve="-90"/>
 <vertex x="31.75" y="118.872" curve="-90"/>
 <vertex x="33.782" y="116.84" curve="-90"/>

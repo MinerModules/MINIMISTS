@@ -267,7 +267,6 @@
 <wire x1="5.08" y1="105.41" x2="3.937" y2="106.045" width="0.2032" layer="25" locked="yes"/>
 <wire x1="5.08" y1="105.41" x2="6.223" y2="104.775" width="0.2032" layer="25" locked="yes"/>
 <wire x1="5.08" y1="105.41" x2="6.223" y2="106.045" width="0.2032" layer="25" locked="yes"/>
-<circle x="-13.97" y="114.3" radius="0" width="3" layer="1"/>
 </plain>
 <libraries>
 <library name="monomanic-logopack">
@@ -493,6 +492,30 @@
 <vertex x="8.89" y="118.872" curve="90"/>
 <vertex x="6.858" y="116.84" curve="90"/>
 <vertex x="8.89" y="114.808" curve="90"/>
+</polygon>
+</signal>
+<signal name="S$2">
+<polygon width="0.1016" layer="16">
+<vertex x="18.542" y="116.84" curve="90"/>
+<vertex x="16.51" y="118.872" curve="90"/>
+<vertex x="14.478" y="116.84" curve="90"/>
+<vertex x="16.51" y="114.808" curve="90"/>
+</polygon>
+</signal>
+<signal name="S$3">
+<polygon width="0.1016" layer="16">
+<vertex x="26.162" y="116.84" curve="90"/>
+<vertex x="24.13" y="118.872" curve="90"/>
+<vertex x="22.098" y="116.84" curve="90"/>
+<vertex x="24.13" y="114.808" curve="90"/>
+</polygon>
+</signal>
+<signal name="S$4">
+<polygon width="0.1016" layer="16">
+<vertex x="33.782" y="116.84" curve="90"/>
+<vertex x="31.75" y="118.872" curve="90"/>
+<vertex x="29.718" y="116.84" curve="90"/>
+<vertex x="31.75" y="114.808" curve="90"/>
 </polygon>
 </signal>
 </signals>
