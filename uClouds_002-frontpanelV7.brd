@@ -166,9 +166,7 @@
 <hole x="10.16" y="97.155" drill="6.2"/>
 <hole x="30.48" y="97.155" drill="6.2"/>
 <hole x="20.32" y="90.805" drill="6.2"/>
-<hole x="20.32" y="90.805" drill="6.2"/>
 <hole x="34.29" y="83.185" drill="6.2"/>
-<hole x="10.16" y="97.155" drill="6.2"/>
 <hole x="6.35" y="83.185" drill="6.2"/>
 <hole x="6.35" y="70.485" drill="6.2"/>
 <hole x="34.29" y="70.485" drill="6.2"/>
@@ -184,7 +182,7 @@
 <hole x="20.32" y="77.47" drill="6.2"/>
 <hole x="20.32" y="22.225" drill="6.2"/>
 <hole x="7.5" y="3" drill="3.2"/>
-<text x="25.635" y="125.016" size="1.778" layer="25">MINIMISTS</text>
+<text x="31.985" y="126.286" size="2.159" layer="25" align="center">MINIMISTS</text>
 <wire x1="8.89" y1="118.872" x2="7.62" y2="116.205" width="0.1524" layer="25"/>
 <wire x1="7.62" y1="116.205" x2="8.89" y2="114.808" width="0.1524" layer="25"/>
 <wire x1="8.89" y1="114.808" x2="10.16" y2="116.205" width="0.1524" layer="25"/>
@@ -216,36 +214,21 @@
 <wire x1="18.034" y1="118.11" x2="18.034" y2="115.57" width="0.1524" layer="25"/>
 <wire x1="18.034" y1="115.57" x2="14.986" y2="115.57" width="0.1524" layer="25"/>
 <wire x1="14.986" y1="115.57" x2="14.986" y2="118.11" width="0.1524" layer="25"/>
-<text x="-5.08" y="105.664" size="1.5" layer="25" align="center">FREEZE</text>
-<text x="10.16" y="102.489" size="1.5" layer="25" align="center">POS</text>
-<text x="30.48" y="102.489" size="1.5" layer="25" align="center">BLEND</text>
-<text x="20.32" y="82.55" size="1.5" layer="25" align="center">SIZE</text>
-<text x="20.32" y="97.282" size="1.5" layer="25" align="center">TRIG</text>
-<text x="10.16" y="41.275" size="1.5" layer="25" align="center">DENS</text>
-<text x="30.48" y="41.275" size="1.5" layer="25" align="center">TEXT</text>
-<text x="20.32" y="82.55" size="1.5" layer="25" align="center">SIZE</text>
-<text x="20.32" y="68.58" size="1.5" layer="25" align="center">PITCH</text>
-<text x="20.32" y="30.226" size="1.5" layer="25" align="center">GAIN</text>
-<text x="6.35" y="36.068" size="1.5" layer="25" align="center">I</text>
-<text x="34.29" y="36.068" size="1.5" layer="25" align="center">O</text>
+<text x="10.16" y="102.489" size="1.651" layer="25" align="center">POS</text>
+<text x="30.48" y="102.489" size="1.651" layer="25" align="center">BLEND</text>
+<text x="20.32" y="82.55" size="1.651" layer="25" align="center">SIZE</text>
+<text x="20.32" y="97.282" size="1.651" layer="25" align="center">TRIG</text>
+<text x="10.16" y="41.275" size="1.651" layer="25" align="center">DENS</text>
+<text x="30.48" y="41.275" size="1.651" layer="25" align="center">TEXT</text>
+<text x="20.32" y="68.58" size="1.651" layer="25" align="center">PITCH</text>
+<text x="20.32" y="30.226" size="1.651" layer="25" align="center">GAIN</text>
+<text x="6.35" y="36.068" size="1.651" layer="25" align="center">I</text>
+<text x="34.29" y="36.068" size="1.651" layer="25" align="center">O</text>
 <wire x1="6.35" y1="17.78" x2="6.35" y2="22.86" width="0.254" layer="25"/>
 <wire x1="6.35" y1="22.86" x2="5.842" y2="22.86" width="0.254" layer="25"/>
 <wire x1="5.842" y1="22.86" x2="6.35" y2="23.876" width="0.254" layer="25"/>
 <wire x1="6.35" y1="23.876" x2="6.858" y2="22.86" width="0.254" layer="25"/>
 <wire x1="6.858" y1="22.86" x2="6.35" y2="22.86" width="0.254" layer="25"/>
-<hole x="15.24" y="105.41" drill="0.35"/>
-<hole x="15.24" y="110.49" drill="9"/>
-<hole x="20.32" y="90.805" drill="9"/>
-<hole x="34.29" y="70.485" drill="9"/>
-<hole x="34.29" y="83.185" drill="9"/>
-<hole x="6.35" y="83.185" drill="9"/>
-<hole x="34.29" y="57.785" drill="9"/>
-<hole x="6.35" y="57.785" drill="9"/>
-<hole x="6.35" y="70.485" drill="9"/>
-<hole x="6.35" y="29.21" drill="9"/>
-<hole x="6.35" y="15.24" drill="9"/>
-<hole x="34.29" y="15.24" drill="9"/>
-<hole x="34.29" y="29.21" drill="9"/>
 <wire x1="10.16" y1="95.25" x2="10.16" y2="90.17" width="0.254" layer="25"/>
 <wire x1="8.89" y1="88.9" x2="9.144" y2="89.916" width="0.254" layer="25"/>
 <wire x1="9.144" y1="89.916" x2="9.525" y2="89.535" width="0.254" layer="25"/>
@@ -276,27 +259,18 @@
 <wire x1="9.906" y1="64.516" x2="9.525" y2="64.135" width="0.254" layer="25"/>
 <wire x1="9.525" y1="64.135" x2="9.144" y2="63.754" width="0.254" layer="25"/>
 <wire x1="9.144" y1="63.754" x2="8.89" y2="64.77" width="0.254" layer="25"/>
-<hole x="20.32" y="22.225" drill="13"/>
 <wire x1="9.525" y1="52.705" x2="10.16" y2="52.07" width="0.254" layer="25"/>
 <wire x1="30.48" y1="52.07" x2="31.115" y2="52.705" width="0.254" layer="25"/>
 <wire x1="10.16" y1="63.5" x2="9.525" y2="64.135" width="0.254" layer="25"/>
 <wire x1="30.48" y1="77.47" x2="31.115" y2="76.835" width="0.254" layer="25"/>
 <wire x1="30.48" y1="90.17" x2="31.115" y2="89.535" width="0.254" layer="25"/>
 <wire x1="10.16" y1="90.17" x2="9.525" y2="89.535" width="0.254" layer="25"/>
-<wire x1="5.08" y1="106.553" x2="5.08" y2="106.172" width="0.1524" layer="25"/>
-<wire x1="5.08" y1="106.172" x2="5.08" y2="105.41" width="0.1524" layer="25"/>
-<wire x1="5.08" y1="104.267" x2="5.08" y2="104.648" width="0.1524" layer="25"/>
-<wire x1="5.08" y1="104.648" x2="5.08" y2="105.41" width="0.1524" layer="25"/>
-<wire x1="5.08" y1="105.41" x2="3.937" y2="104.775" width="0.1524" layer="25"/>
-<wire x1="5.08" y1="105.41" x2="3.937" y2="106.045" width="0.1524" layer="25"/>
-<wire x1="5.08" y1="105.41" x2="6.223" y2="104.775" width="0.1524" layer="25"/>
-<wire x1="5.08" y1="105.41" x2="6.223" y2="106.045" width="0.1524" layer="25"/>
-<wire x1="5.08" y1="104.648" x2="5.461" y2="104.267" width="0.1524" layer="25"/>
-<wire x1="5.08" y1="104.648" x2="4.699" y2="104.267" width="0.1524" layer="25"/>
-<wire x1="5.969" y1="104.902" x2="5.969" y2="104.521" width="0.1524" layer="25"/>
-<wire x1="4.699" y1="106.553" x2="5.08" y2="106.172" width="0.1524" layer="25"/>
-<wire x1="5.461" y1="106.553" x2="5.08" y2="106.172" width="0.1524" layer="25"/>
-<wire x1="5.969" y1="105.029" x2="6.35" y2="105.156" width="0.1524" layer="25"/>
+<wire x1="5.08" y1="106.553" x2="5.08" y2="105.41" width="0.2032" layer="25"/>
+<wire x1="5.08" y1="104.267" x2="5.08" y2="105.41" width="0.2032" layer="25"/>
+<wire x1="5.08" y1="105.41" x2="3.937" y2="104.775" width="0.2032" layer="25"/>
+<wire x1="5.08" y1="105.41" x2="3.937" y2="106.045" width="0.2032" layer="25"/>
+<wire x1="5.08" y1="105.41" x2="6.223" y2="104.775" width="0.2032" layer="25"/>
+<wire x1="5.08" y1="105.41" x2="6.223" y2="106.045" width="0.2032" layer="25"/>
 </plain>
 <libraries>
 <library name="rcl">
