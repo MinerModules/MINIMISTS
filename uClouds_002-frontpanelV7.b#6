@@ -298,14 +298,6 @@
 <wire x1="30.7592" y1="118.2667" x2="31.7592" y2="117.2667" width="0.1524" layer="25"/>
 <wire x1="31.7592" y1="117.2667" x2="31.7592" y2="115.2667" width="0.1524" layer="25"/>
 <wire x1="23.12928125" y1="115.675259375" x2="23.12928125" y2="117.175259375" width="0.1524" layer="25"/>
-<polygon width="0.1524" layer="30">
-<vertex x="3.302" y="127.254"/>
-<vertex x="3.302" y="3.048"/>
-<vertex x="37.084" y="3.048"/>
-<vertex x="37.084" y="127"/>
-<vertex x="3.81" y="127"/>
-<vertex x="3.81" y="127.254"/>
-</polygon>
 </plain>
 <libraries>
 <library name="monomanic-logopack">
@@ -516,7 +508,7 @@
 </pass>
 </autorouter>
 <elements>
-<element name="E$1" library="monomanic-logopack" package="LOGO-LARGE" value="" x="16.764" y="2.54"/>
+<element name="E$1" library="monomanic-logopack" package="LOGO-LARGE" value="" x="16.51" y="2.54"/>
 </elements>
 <signals>
 <signal name="S$5">
