@@ -233,30 +233,6 @@
 <wire x1="5.08" y1="105.41" x2="3.937" y2="106.045" width="0.2032" layer="25" locked="yes"/>
 <wire x1="5.08" y1="105.41" x2="6.223" y2="104.775" width="0.2032" layer="25" locked="yes"/>
 <wire x1="5.08" y1="105.41" x2="6.223" y2="106.045" width="0.2032" layer="25" locked="yes"/>
-<polygon width="0.1016" layer="29">
-<vertex x="6.858" y="116.84" curve="-90"/>
-<vertex x="8.89" y="118.872" curve="-90"/>
-<vertex x="10.922" y="116.84" curve="-90"/>
-<vertex x="8.89" y="114.808" curve="-90"/>
-</polygon>
-<polygon width="0.1016" layer="29">
-<vertex x="14.478" y="116.84" curve="-90"/>
-<vertex x="16.51" y="118.872" curve="-90"/>
-<vertex x="18.542" y="116.84" curve="-90"/>
-<vertex x="16.51" y="114.808" curve="-90"/>
-</polygon>
-<polygon width="0.1016" layer="29">
-<vertex x="22.098" y="116.84" curve="-90"/>
-<vertex x="24.13" y="118.872" curve="-90"/>
-<vertex x="26.162" y="116.84" curve="-90"/>
-<vertex x="24.13" y="114.808" curve="-90"/>
-</polygon>
-<polygon width="0.1016" layer="29">
-<vertex x="29.718" y="116.84" curve="-90"/>
-<vertex x="31.75" y="118.872" curve="-90"/>
-<vertex x="33.782" y="116.84" curve="-90"/>
-<vertex x="31.75" y="114.808" curve="-90"/>
-</polygon>
 <polygon width="0.1016" layer="30">
 <vertex x="6.858" y="116.84" curve="-90"/>
 <vertex x="8.89" y="118.872" curve="-96.732883"/>
@@ -281,6 +257,10 @@
 <vertex x="33.782" y="116.84" curve="-90"/>
 <vertex x="31.75" y="114.808" curve="-90"/>
 </polygon>
+<circle x="8.89" y="116.84" radius="1.983803125" width="0.15" layer="1"/>
+<circle x="16.51" y="116.84" radius="2.0478125" width="0.15" layer="1"/>
+<circle x="24.13" y="116.84" radius="2.0478125" width="0.15" layer="1"/>
+<circle x="31.75" y="116.84" radius="2.0478125" width="0.15" layer="1"/>
 </plain>
 <libraries>
 <library name="monomanic-logopack">
